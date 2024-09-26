@@ -1,0 +1,20 @@
+{
+  "name": "kishore-task",
+  "version": "1.0.0",
+  "description": "NODE & NPM BASICS",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "keywords": [
+    "NODE",
+    "NPM",
+    "JS",
+    "SASS"
+  ],
+  "author": "Kishore kanna .a",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
